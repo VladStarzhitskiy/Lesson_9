@@ -1,0 +1,49 @@
+body{
+    padding: 2px;
+    border: 1px solid black;
+   
+    
+}
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+    height: 200px;
+    width: 100%;   
+   
+}
+
+td{
+    border: 1px solid gray;
+    padding: 30px;
+    padding: 10px;
+    
+}
+
+.top{
+    text-align: center;
+}
+.left{
+    text-align: center;
+    vertical-align: bottom;
+    
+}
+.center{
+    text-align: right;
+    vertical-align: top;
+}
+.left1{
+    text-align: left;
+    vertical-align: text-top;
+}
+.hidden{
+    border-bottom: hidden;
+}
+.new{
+    border-left: hidden;
+}
+.border{
+    border-left: 2px solid black;
+}
+.zik{
+    border-top: 2px solid black;
+}
